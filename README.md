@@ -6,7 +6,7 @@ Wallet connection: web3, ethers
 
 ## Installation
 
-Clone repo
+Clone repo\
 Install Dependancies
 ### `npm install`
 ### `npm run build`
